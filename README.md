@@ -20,6 +20,8 @@ Minecraft voxel developers
 
 [C7TK](github.com/c7tk) - Testing the game
 
+[Deijean](https://github.com/happydeijean) - Testing the game
+
 
 Codes & Libraries used
 
