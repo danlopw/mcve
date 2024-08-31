@@ -9,13 +9,20 @@ adding new things upon.
 # Credits
 
 M4KC Developers
+
 [sasha koshka](github.com/sashakoshka) - Creating the original M4KC
 
+
+
 Minecraft voxel developers
+
 [danlopw](github.com/danlopw) - Creating this extension
+
 [C7TK](github.com/c7tk) - Testing the game
 
+
 Codes & Libraries used
+
 [Simple SDL2 Audio](https://github.com/jakebesworth/simple-sdl2-audio) 
 
 
