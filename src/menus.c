@@ -21,7 +21,7 @@ int state_title (SDL_Renderer *renderer, Inputs *inputs, int *gameState) {
         white(renderer);
         drawBig (
                 renderer,
-                "M4KC",
+                "Minecraft Voxel",
                 BUFFER_HALF_W,
                 16
         );
