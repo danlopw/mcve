@@ -18,6 +18,8 @@ Minecraft voxel developers
 
 [danlopw](github.com/danlopw) - Creating this extension
 
+[TheRoman228](github.com/TheRoman228) - Developer (Programmer)
+
 [C7TK](github.com/c7tk) - Testing the game
 
 [Deijean](https://github.com/happydeijean) - Testing the game
